@@ -1,5 +1,6 @@
 {
   "client.dll": {
+    "dwCSGOInput": 27085688,
     "dwEntityList": 26645784,
     "dwGameEntitySystem": 27824552,
     "dwGameEntitySystem_highestEntityIndex": 5392,
@@ -12,6 +13,7 @@
     "dwPrediction": 24987312,
     "dwSensitivity": 27032296,
     "dwSensitivity_sensitivity": 64,
+    "dwViewAngles": 27109624,
     "dwViewMatrix": 27047072,
     "dwViewRender": 27049008,
     "dwWeaponC4": 26662176
